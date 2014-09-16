@@ -23,13 +23,11 @@ Dan Allen <thedoc@asciidoctor.org>
 This is a demonstration of {library} {asciidoctor-version}.
 And this is the preamble of this document.
 
-////
 ifdef::env-github[]
 ++++
 <a name="purpose"></a>
 ++++
 endif::env-github[]
-////
 
 [[purpose]]
 .Purpose
